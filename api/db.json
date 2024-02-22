@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "src": "/assets/cel7.png",
+            "src2": "/assets/cel7-2.png",
+            "title": "Galaxy S23 Ultra 8/256GB",
+            "description": "Smartphone 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 7,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 900
+        },
+        {
+            "id": 2,
+            "src": "../../../assets/keyboard2.png",
+            "src2": "../../../assets/keyboard2-2.png",
+            "title": "Mechanical Keyboard",
+            "description": "Keyboard 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 6.5,
+            "category": "Keyboard",
+            "company": "Logitech",
+            "price": 80
+        },
+        {
+            "id": 3,
+            "src": "../../../assets/headset2.png",
+            "src2": "../../../assets/headset2-2.png",
+            "title": "Gaming Headset",
+            "description": "Headset 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 7.5,
+            "category": "Headset",
+            "company": "Sony",
+            "price": 100
+        },
+        {
+            "id": 4,
+            "src": "../../../assets/cel8.png",
+            "src2": "../../../assets/cel8-2.png",
+            "title": "Iphone 15 Pro Max",
+            "description": "Smartphone 2 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 5.5,
+            "category": "Smartphone",
+            "company": "Apple",
+            "price": 1300
+        },
+        {
+            "id": 5,
+            "src": "../../../assets/headset1.png",
+            "src2": "../../../assets/headset1-2.png",
+            "title": "Gaming Headset 2",
+            "description": "Headset 2 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 8.5,
+            "category": "Headset",
+            "company": "Sony",
+            "price": 90
+        },
+        {
+            "id": 6,
+            "src": "../../../assets/mouse2.png",
+            "src2": "../../../assets/mouse2-2.png",
+            "title": "Wireless Mouse",
+            "description": "Mouse 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 7.5,
+            "category": "Mouse",
+            "company": "Logitech",
+            "price": 30
+        },
+        {
+            "id": 7,
+            "src": "../../../assets/cel3.png",
+            "src2": "../../../assets/cel3-2.png",
+            "title": "Samsung Galaxy Z Fold5",
+            "description": "Smartphone 3 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 6.5,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 1020
+        },
+        {
+            "id": 8,
+            "src": "../../../assets/flip.png",
+            "src2": "../../../assets/flip-2.png",
+            "title": "Galaxy Z Flip5",
+            "description": "Smartphone 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 8.5,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 1100
+        },
+        {
+            "id": 9,
+            "src": "../../../assets/flip.png",
+            "src2": "../../../assets/flip-2.png",
+            "title": "Galaxy Z Flip5",
+            "description": "Smartphone 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 8.5,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 1100
+        },
+        {
+            "id": 10,
+            "src": "../../../assets/flip.png",
+            "src2": "../../../assets/flip-2.png",
+            "title": "Galaxy Z Flip5",
+            "description": "Smartphone 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 8.5,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 1100
+        },
+        {
+            "id": 11,
+            "src": "../../../assets/flip.png",
+            "src2": "../../../assets/flip-2.png",
+            "title": "Galaxy Z Flip5",
+            "description": "Smartphone 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 8.5,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 1100
+        },
+        {
+            "id": 12,
+            "src": "../../../assets/flip.png",
+            "src2": "../../../assets/flip-2.png",
+            "title": "Galaxy Z Flip5",
+            "description": "Smartphone 1 description here...",
+            "description2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "ratings": 8.5,
+            "category": "Smartphone",
+            "company": "Samsung",
+            "price": 1100
+        }
+    ]
+}
