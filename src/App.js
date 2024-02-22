@@ -11,7 +11,7 @@ import CartProvider from "./contexts/CartProvider";
 import Footer from "./components/Footer";
 import Category from "./pages/Category";
 
-const BASE_URL = "https://trendz-server-vercel.vercel.app/products";
+const BASE_URL = "https://trendz-server-vercel.vercel.app";
 
 function App({ setFilteredProducts }) {
     const [products, setProducts] = useState([]);
